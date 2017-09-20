@@ -125,10 +125,10 @@ public class Player implements escape.sim.Player {
                         /*
                          * Max conflict is calculated by finding the maximum for the number of
                          * consecutive times a player has conflicting with another specific player
-                         * when visiting a handle. Each handle weighted by 1/((8*(ln(turn)+1)^(Max Conflicts) 
+                         * when visiting a handle.
                          */
-                        oddWeights[lastMove] = 1/(Math.pow(8*(1+Math.log(turn)),maxConflicts));
-               
+                        oddWeights[lastMove] = Math.pow(.6/Math.pow(2,Math.log(turn)),maxConflicts);
+                                
                         if (evenOwnership > 0) { // Checking for next round ownership
                                 if (evenOwnership == oddOwnership || (evenOwnership == lastMove && conflicts.size() > 0)) {
                                         evenWeights[evenOwnership] = 1;
@@ -160,8 +160,9 @@ public class Player implements escape.sim.Player {
                                     break;
                         }
                 } else {
-                        if (conflicts.size() == 0){ // Obtain ownership
+                        if (evenOwnership != lastMove && conflicts.size() == 0){ // Obtain ownership
                                 evenOwnership = lastMove;
+                                System.out.println(evenOwnership);
                         }
                         
                         // Use last turn's conflicts to adjust weights
@@ -205,7 +206,7 @@ public class Player implements escape.sim.Player {
                         }
                        
                         // Each handle weighted by 1/((8*(ln(turn)+1)^(Max Conflicts) 
-                        evenWeights[lastMove] = 1/(Math.pow(8*(1+Math.log(turn)),maxConflicts));
+                        evenWeights[lastMove] = Math.pow(.6/Math.pow(2,Math.log(turn)),maxConflicts);
                         
                         if (oddOwnership > 0) { // Checking for next round ownership
                                 if (evenOwnership == oddOwnership || (oddOwnership == lastMove && conflicts.size() > 0)) {
