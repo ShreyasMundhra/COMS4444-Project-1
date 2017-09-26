@@ -67,14 +67,20 @@ public class Player implements escape.sim.Player {
                                 lastMove = even.ownership;
                                 return lastMove;
                         }
+
+                        if (even.nextMove > 0 && (even.nextMove != lastMove || conflicts.size() == 0)) {
+                            lastMove = even.nextMove;
+                            even.nextMove = 0;
+                            return lastMove;
+                        }
                         
                         move = weightedMoveGenerator(even.weights);
-                        int cycle = 0;
+                        int cycle = 0; // Prevents infinite loop when a single handle weight is skewed
                         while (move == odd.ownership || (move == lastMove && conflicts.size() > 0)) {
                                 move = weightedMoveGenerator(even.weights);
                                 cycle++;
                                 if (cycle > n) {
-                                        odd.weights[move] = .6/Math.pow(2,turn/2);
+                                        odd.weights[move] = 0.6/Math.pow(2,turn/2);
                                 }
                         }
                 } else {
@@ -82,7 +88,7 @@ public class Player implements escape.sim.Player {
                                 even.ownership = lastMove;
                                 odd.weights[even.ownership] = 0;
                         }
-                       
+
                         if (lastMove != even.ownership) {
                                 weightCalculator(even,odd,lastMoveConflicts);
                         }
@@ -90,6 +96,12 @@ public class Player implements escape.sim.Player {
                         if (odd.ownership > 0) { // Checking for next round ownership
                                 lastMove = odd.ownership;
                                 return lastMove;
+                        }
+                        
+                        if (odd.nextMove > 0 && (odd.nextMove != lastMove || conflicts.size() == 0)) {
+                            lastMove = odd.nextMove;
+                            odd.nextMove = 0;
+                            return lastMove;
                         }
 
                         move = weightedMoveGenerator(odd.weights);
@@ -99,7 +111,7 @@ public class Player implements escape.sim.Player {
                                 move = weightedMoveGenerator(odd.weights);
                                 cycle++;
                                 if (cycle > n) {
-                                        odd.weights[move] = .6/Math.pow(2,turn/2);
+                                        odd.weights[move] = 0.6/Math.pow(2,turn/2);
                                 }
                         }
                 }
@@ -137,10 +149,11 @@ public class Player implements escape.sim.Player {
                                  */
                                 for (int handle=1; handle<n+1; handle++) {
                                     if (handle != lastMove) {
-                                        previous.conflicts.get(handle).remove(new Integer(player));
+                                        boolean removed = previous.conflicts.get(handle).remove(new Integer(player));
                                         // Checking if conflicted with other players at this handle
-                                        if (previous.conflicts.get(handle).size() == 0) {
+                                        if (removed == true && previous.conflicts.get(handle).size() == 0) {
                                                 previous.weights[handle] = 1;
+                                                previous.nextMove = handle;
                                         }
                                     }
                                 }
@@ -167,7 +180,7 @@ public class Player implements escape.sim.Player {
                  * when visiting a handle.
                  */
                 if (previous.conflicts.get(lastMove).size() > 0)
-                        previous.weights[lastMove] = .6/Math.pow(2,turn/2);
+                        previous.weights[lastMove] = 0.6/Math.pow(2,turn/2);
         }
 
         private int weightedMoveGenerator(double[] weights) {
