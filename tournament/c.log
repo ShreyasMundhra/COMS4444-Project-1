@@ -1,0 +1,420 @@
+['g2c']  running 3 handles
+b'Scores: 7\n'
+b'Scores: 4\n'
+b'Scores: 3\n'
+b'Scores: 2\n'
+b'Scores: 4\n'
+b'Scores: 1\n'
+b'Scores: 8\n'
+b'Scores: 7\n'
+b'Scores: 3\n'
+Results: [7, 4, 3, 2, 4, 1, 8, 7, 3]
+Median: 4 [Min: 1, Max: 8]
+Average: 4.333333333333333
+Standard deviation: 2.309401076758503
+['g5c']  running 3 handles
+b'Scores: 8\n'
+b'Scores: 3\n'
+b'Scores: 5\n'
+b'Scores: 4\n'
+b'Scores: 7\n'
+b'Scores: 1\n'
+b'Scores: 8\n'
+b'Scores: 2\n'
+b'Scores: 9\n'
+Results: [8, 3, 5, 4, 7, 1, 8, 2, 9]
+Median: 5 [Min: 1, Max: 9]
+Average: 5.222222222222222
+Standard deviation: 2.739739556875101
+['g7c']  running 3 handles
+b'Scores: 49\n'
+b'Scores: 17\n'
+b'Scores: 3\n'
+b'Scores: 33\n'
+b'Scores: 3\n'
+b'Scores: 17\n'
+b'Scores: 18\n'
+b'Scores: 2\n'
+b'Scores: 1\n'
+Results: [49, 17, 3, 33, 3, 17, 18, 2, 1]
+Median: 17 [Min: 1, Max: 49]
+Average: 15.88888888888889
+Standard deviation: 15.430449294563616
+['g8c']  running 3 handles
+b'Scores: 1\n'
+b'Scores: 7\n'
+b'Scores: 2\n'
+b'Scores: 7\n'
+b'Scores: 6\n'
+b'Attempting handle 3: 3\n'
+b'Scores: 1\n'
+b'Scores: 14\n'
+b'Scores: 8\n'
+Results: [1, 7, 2, 7, 6, 3, 1, 14, 8]
+Median: 6 [Min: 1, Max: 14]
+Average: 5.444444444444445
+Standard deviation: 3.9752319599996264
+['g9c']  running 3 handles
+b'Scores: 13\n'
+b'Scores: 7\n'
+b'Scores: 3\n'
+b'Scores: 9\n'
+b'Scores: 3\n'
+b'Scores: 6\n'
+b'Scores: 6\n'
+b'Scores: 2\n'
+b'Scores: 1\n'
+Results: [13, 7, 3, 9, 3, 6, 6, 2, 1]
+Median: 6 [Min: 1, Max: 13]
+Average: 5.555555555555555
+Standard deviation: 3.593547028621384
+['g2c']  running 10 handles
+b'Scores: 14\n'
+b'Scores: 36\n'
+b'Scores: 17\n'
+b'Scores: 9\n'
+b'Scores: 13\n'
+b'Scores: 22\n'
+b'Scores: 15\n'
+b'You are doomed!\n'
+b'Scores: 17\n'
+Results: [14, 36, 17, 9, 13, 22, 15, -1, 17]
+Median: 15 [Min: -1, Max: 36]
+Average: 15.777777777777779
+Standard deviation: 9.366343740314488
+['g5c']  running 10 handles
+b'Scores: 32\n'
+b'Scores: 169\n'
+b'Scores: 35\n'
+b'Scores: 169\n'
+b'Scores: 17\n'
+b'Scores: 11\n'
+b'Scores: 90\n'
+b'Scores: 38\n'
+b'Scores: 10\n'
+Results: [32, 169, 35, 169, 17, 11, 90, 38, 10]
+Median: 35 [Min: 10, Max: 169]
+Average: 63.44444444444444
+Standard deviation: 60.73459770200747
+['g7c']  running 10 handles
+b'Scores: 21\n'
+b'Scores: 11\n'
+b'Scores: 17\n'
+b'Scores: 25\n'
+b'Scores: 15\n'
+b'Scores: 23\n'
+b'Scores: 11\n'
+b'Scores: 10\n'
+b'Scores: 7\n'
+Results: [21, 11, 17, 25, 15, 23, 11, 10, 7]
+Median: 15 [Min: 7, Max: 25]
+Average: 15.555555555555555
+Standard deviation: 5.9835164523716715
+['g8c']  running 10 handles
+b'Scores: 19\n'
+b'Scores: 17\n'
+b'Scores: 16\n'
+b'Scores: 62\n'
+b'Scores: 42\n'
+b'Scores: 11\n'
+b'Scores: 24\n'
+b'Scores: 27\n'
+b'Scores: 20\n'
+Results: [19, 17, 16, 62, 42, 11, 24, 27, 20]
+Median: 20 [Min: 11, Max: 62]
+Average: 26.444444444444443
+Standard deviation: 15.078395958833221
+['g9c']  running 10 handles
+b'Scores: 19\n'
+b'Scores: 25\n'
+b'Scores: 38\n'
+b'Scores: 38\n'
+b'Scores: 11\n'
+b'Scores: 9\n'
+b'Scores: 11\n'
+b'Scores: 37\n'
+b'Scores: 15\n'
+Results: [19, 25, 38, 38, 11, 9, 11, 37, 15]
+Median: 19 [Min: 9, Max: 38]
+Average: 22.555555555555557
+Standard deviation: 11.605660602683992
+['g2c']  running 30 handles
+b'Scores: 44\n'
+b'Scores: 39\n'
+b'Scores: 14\n'
+b'Scores: 37\n'
+b'Scores: 55\n'
+b'Scores: 41\n'
+b'Scores: 50\n'
+b'Scores: 51\n'
+b'Scores: 59\n'
+Results: [44, 39, 14, 37, 55, 41, 50, 51, 59]
+Median: 44 [Min: 14, Max: 59]
+Average: 43.333333333333336
+Standard deviation: 12.516655570345725
+['g5c']  running 30 handles
+b'Scores: 21\n'
+b'Scores: 35\n'
+b'Scores: 33\n'
+b'Scores: 45\n'
+b'Scores: 224\n'
+b'Scores: 42\n'
+b'Scores: 60\n'
+b'Scores: 57\n'
+b'Scores: 43\n'
+Results: [21, 35, 33, 45, 224, 42, 60, 57, 43]
+Median: 43 [Min: 21, Max: 224]
+Average: 62.22222222222222
+Standard deviation: 58.28431803148306
+['g7c']  running 30 handles
+b'Scores: 47\n'
+b'Scores: 39\n'
+b'Scores: 64\n'
+b'Scores: 64\n'
+b'Scores: 45\n'
+b'Scores: 52\n'
+b'Scores: 75\n'
+b'Scores: 67\n'
+b'Scores: 48\n'
+Results: [47, 39, 64, 64, 45, 52, 75, 67, 48]
+Median: 52 [Min: 39, Max: 75]
+Average: 55.666666666666664
+Standard deviation: 11.450376024878446
+['g8c']  running 30 handles
+b'Scores: 37\n'
+b'Scores: 56\n'
+b'Scores: 47\n'
+b'Scores: 60\n'
+b'Scores: 39\n'
+b'Scores: 52\n'
+b'Scores: 32\n'
+b'Scores: 34\n'
+b'Scores: 75\n'
+Results: [37, 56, 47, 60, 39, 52, 32, 34, 75]
+Median: 47 [Min: 32, Max: 75]
+Average: 48.0
+Standard deviation: 13.366625103842281
+['g9c']  running 30 handles
+b'Scores: 33\n'
+b'Scores: 35\n'
+b'Scores: 27\n'
+b'Scores: 36\n'
+b'Scores: 40\n'
+b'Scores: 50\n'
+b'Scores: 48\n'
+b'Scores: 50\n'
+b'Scores: 52\n'
+Results: [33, 35, 27, 36, 40, 50, 48, 50, 52]
+Median: 40 [Min: 27, Max: 52]
+Average: 41.22222222222222
+Standard deviation: 8.521577550584004
+['g2c']  running 101 handles
+b'Scores: 125\n'
+b'Scores: 132\n'
+b'Scores: 91\n'
+b'Scores: 113\n'
+b'Scores: 125\n'
+b'Scores: 117\n'
+b'Scores: 119\n'
+b'Scores: 132\n'
+b'Scores: 94\n'
+Results: [125, 132, 91, 113, 125, 117, 119, 132, 94]
+Median: 119 [Min: 91, Max: 132]
+Average: 116.44444444444444
+Standard deviation: 14.143008568123852
+['g5c']  running 101 handles
+b'Scores: 155\n'
+b'Scores: 171\n'
+b'Scores: 132\n'
+b'Scores: 138\n'
+b'Scores: 133\n'
+b'Scores: 72\n'
+b'Scores: 146\n'
+b'Scores: 170\n'
+b'Scores: 135\n'
+Results: [155, 171, 132, 138, 133, 72, 146, 170, 135]
+Median: 138 [Min: 72, Max: 171]
+Average: 139.11111111111111
+Standard deviation: 27.650374497943844
+['g7c']  running 101 handles
+b'Scores: 159\n'
+b'Scores: 147\n'
+b'Scores: 124\n'
+b'Scores: 136\n'
+b'Scores: 95\n'
+b'Scores: 127\n'
+b'Scores: 157\n'
+b'Scores: 139\n'
+b'Scores: 88\n'
+Results: [159, 147, 124, 136, 95, 127, 157, 139, 88]
+Median: 136 [Min: 88, Max: 159]
+Average: 130.22222222222223
+Standard deviation: 23.592737949433026
+['g8c']  running 101 handles
+b'Scores: 156\n'
+b'Scores: 132\n'
+b'Scores: 189\n'
+b'Scores: 98\n'
+b'Scores: 344\n'
+b'Scores: 141\n'
+b'Scores: 110\n'
+b'Scores: 54\n'
+b'Scores: 115\n'
+Results: [156, 132, 189, 98, 344, 141, 110, 54, 115]
+Median: 132 [Min: 54, Max: 344]
+Average: 148.77777777777777
+Standard deviation: 77.69567094729678
+['g9c']  running 101 handles
+b'Scores: 152\n'
+b'Scores: 122\n'
+b'Scores: 163\n'
+b'Scores: 137\n'
+b'Scores: 166\n'
+b'Scores: 128\n'
+b'Scores: 154\n'
+b'Scores: 175\n'
+b'Scores: 154\n'
+Results: [152, 122, 163, 137, 166, 128, 154, 175, 154]
+Median: 154 [Min: 122, Max: 175]
+Average: 150.11111111111111
+Standard deviation: 16.74278912410716
+['g2c']  running 200 handles
+b'Scores: 347\n'
+b'Scores: 350\n'
+b'Scores: 198\n'
+b'Scores: 285\n'
+b'Scores: 323\n'
+b'Scores: 271\n'
+b'Scores: 233\n'
+b'Scores: 327\n'
+b'Scores: 273\n'
+Results: [347, 350, 198, 285, 323, 271, 233, 327, 273]
+Median: 285 [Min: 198, Max: 350]
+Average: 289.6666666666667
+Standard deviation: 49.09627729720905
+['g5c']  running 200 handles
+b'Scores: 309\n'
+b'Scores: 360\n'
+b'Scores: 308\n'
+b'Scores: 198\n'
+b'Scores: 222\n'
+b'Scores: 398\n'
+b'Scores: 169\n'
+b'Scores: 377\n'
+b'Scores: 236\n'
+Results: [309, 360, 308, 198, 222, 398, 169, 377, 236]
+Median: 308 [Min: 169, Max: 398]
+Average: 286.3333333333333
+Standard deviation: 78.41626815343301
+['g7c']  running 200 handles
+b'Scores: 378\n'
+b'Scores: 132\n'
+b'Scores: 171\n'
+b'Scores: 217\n'
+b'Scores: 286\n'
+b'Scores: 266\n'
+b'Scores: 255\n'
+b'Scores: 357\n'
+b'Scores: 172\n'
+Results: [378, 132, 171, 217, 286, 266, 255, 357, 172]
+Median: 255 [Min: 132, Max: 378]
+Average: 248.22222222222223
+Standard deviation: 79.38622575425899
+['g8c']  running 200 handles
+b'Scores: 332\n'
+b'Scores: 260\n'
+b'Scores: 237\n'
+b'Scores: 345\n'
+b'Scores: 210\n'
+b'Scores: 135\n'
+b'Scores: 191\n'
+b'Scores: 221\n'
+b'Scores: 340\n'
+Results: [332, 260, 237, 345, 210, 135, 191, 221, 340]
+Median: 237 [Min: 135, Max: 345]
+Average: 252.33333333333334
+Standard deviation: 69.2948611209935
+['g9c']  running 200 handles
+b'Scores: 259\n'
+b'Scores: 155\n'
+b'Scores: 345\n'
+b'Scores: 152\n'
+b'Scores: 339\n'
+b'Scores: 325\n'
+b'Scores: 245\n'
+b'Scores: 300\n'
+b'Scores: 234\n'
+Results: [259, 155, 345, 152, 339, 325, 245, 300, 234]
+Median: 259 [Min: 152, Max: 345]
+Average: 261.55555555555554
+Standard deviation: 69.00903501412151
+['g2c']  running 1000 handles
+b'Scores: 982\n'
+b'Scores: 1161\n'
+b'Scores: 1138\n'
+b'Scores: 1282\n'
+b'Scores: 1802\n'
+b'Scores: 1796\n'
+b'Scores: 991\n'
+b'Scores: 1583\n'
+b'Scores: 831\n'
+Results: [982, 1161, 1138, 1282, 1802, 1796, 991, 1583, 831]
+Median: 1161 [Min: 831, Max: 1802]
+Average: 1285.111111111111
+Standard deviation: 339.70066707305205
+['g5c']  running 1000 handles
+b'Scores: 1542\n'
+b'Scores: 727\n'
+b'Scores: 1171\n'
+b'Scores: 1629\n'
+b'Scores: 1373\n'
+b'Scores: 1426\n'
+b'Scores: 1387\n'
+b'Scores: 1725\n'
+b'Scores: 1611\n'
+Results: [1542, 727, 1171, 1629, 1373, 1426, 1387, 1725, 1611]
+Median: 1426 [Min: 727, Max: 1725]
+Average: 1399
+Standard deviation: 284.7388667221639
+['g7c']  running 1000 handles
+b'Scores: 1227\n'
+b'Scores: 1052\n'
+b'Scores: 1538\n'
+b'Scores: 577\n'
+b'Scores: 1197\n'
+b'Scores: 1116\n'
+b'Scores: 1240\n'
+b'Scores: 1085\n'
+b'Scores: 1841\n'
+Results: [1227, 1052, 1538, 577, 1197, 1116, 1240, 1085, 1841]
+Median: 1197 [Min: 577, Max: 1841]
+Average: 1208.111111111111
+Standard deviation: 326.1194206777785
+['g8c']  running 1000 handles
+b'Scores: 2059\n'
+b'Scores: 1549\n'
+b'Scores: 1489\n'
+b'Scores: 1308\n'
+b'Scores: 971\n'
+b'Scores: 1392\n'
+b'Scores: 1368\n'
+b'Scores: 920\n'
+b'Scores: 1656\n'
+Results: [2059, 1549, 1489, 1308, 971, 1392, 1368, 920, 1656]
+Median: 1392 [Min: 920, Max: 2059]
+Average: 1412.4444444444443
+Standard deviation: 325.3268821461171
+['g9c']  running 1000 handles
+b'Scores: 1289\n'
+b'Scores: 1647\n'
+b'Scores: 1074\n'
+b'Scores: 1501\n'
+b'Scores: 850\n'
+b'Scores: 1504\n'
+b'Scores: 1125\n'
+b'Scores: 770\n'
+b'Scores: 1170\n'
+Results: [1289, 1647, 1074, 1501, 850, 1504, 1125, 770, 1170]
+Median: 1170 [Min: 770, Max: 1647]
+Average: 1214.4444444444443
+Standard deviation: 282.5813987395141

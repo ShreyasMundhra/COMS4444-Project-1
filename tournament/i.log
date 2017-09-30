@@ -1,0 +1,260 @@
+['g2i', 'g5i', 'g7i', 'g8c', 'g9i']  running 1 handles
+b'Scores: 9\n'
+b'Scores: 8\n'
+b'Scores: 11\n'
+b'Scores: 15\n'
+b'Scores: 11\n'
+Results: [9, 8, 11, 15, 11]
+Median: 11 [Min: 8, Max: 15]
+Average: 10.8
+Standard deviation: 2.4
+['g2i', 'g5i', 'g7i', 'g8c', 'g9i']  running 3 handles
+b'Scores: 20\n'
+b'Scores: 20\n'
+b'Scores: 19\n'
+b'Scores: 27\n'
+b'Scores: 55\n'
+Results: [20, 20, 19, 27, 55]
+Median: 20 [Min: 19, Max: 55]
+Average: 28.2
+Standard deviation: 13.70255450636851
+['g2i', 'g5i', 'g7i', 'g8c', 'g9i']  running 101 handles
+b'Scores: 846\n'
+b'Scores: 1079\n'
+b'Scores: 660\n'
+b'Scores: 644\n'
+b'Scores: 714\n'
+Results: [846, 1079, 660, 644, 714]
+Median: 714 [Min: 644, Max: 1079]
+Average: 788.6
+Standard deviation: 161.64108388649217
+['g2i', 'g5i', 'g7i', 'g8c', 'g9i', 'random']  running 1 handles
+b'Scores: 19\n'
+b'Scores: 15\n'
+b'Scores: 42\n'
+b'Scores: 16\n'
+b'Scores: 6\n'
+Results: [19, 15, 42, 16, 6]
+Median: 16 [Min: 6, Max: 42]
+Average: 19.6
+Standard deviation: 12.009995836801943
+['g2i', 'g5i', 'g7i', 'g8c', 'g9i', 'random']  running 3 handles
+b'Scores: 128\n'
+b'Scores: 66\n'
+b'Scores: 1620\n'
+b'Scores: 1053\n'
+b'Scores: 443\n'
+Results: [128, 66, 1620, 1053, 443]
+Median: 443 [Min: 66, Max: 1620]
+Average: 662
+Standard deviation: 593.1235958887489
+['g5i', 'g2i']  running 9 handles
+b'Scores: 16\n'
+b'Scores: 98\n'
+b'Scores: 53\n'
+b'Scores: 55\n'
+b'Scores: 29\n'
+b'Scores: 19\n'
+b'Scores: 98\n'
+b'Scores: 58\n'
+b'Scores: 11\n'
+Results: [16, 98, 53, 55, 29, 19, 98, 58, 11]
+Median: 53 [Min: 11, Max: 98]
+Average: 48.55555555555556
+Standard deviation: 31.209368647219133
+['g7i', 'g2i']  running 9 handles
+b'Scores: 23\n'
+b'Scores: 34\n'
+b'Scores: 22\n'
+b'Scores: 26\n'
+b'Scores: 40\n'
+b'Scores: 32\n'
+b'Scores: 23\n'
+b'Scores: 43\n'
+b'Scores: 25\n'
+Results: [23, 34, 22, 26, 40, 32, 23, 43, 25]
+Median: 26 [Min: 22, Max: 43]
+Average: 29.77777777777778
+Standard deviation: 7.3903507325848405
+['g7i', 'g5i']  running 9 handles
+b'Scores: 13\n'
+b'Scores: 14\n'
+b'Scores: 31\n'
+b'Scores: 58\n'
+b'Scores: 25\n'
+b'Scores: 32\n'
+b'Scores: 22\n'
+b'Scores: 29\n'
+b'Scores: 24\n'
+Results: [13, 14, 31, 58, 25, 32, 22, 29, 24]
+Median: 25 [Min: 13, Max: 58]
+Average: 27.555555555555557
+Standard deviation: 12.499876542600207
+['g8c', 'g2i']  running 9 handles
+b'Scores: 17\n'
+b'Scores: 68\n'
+b'Scores: 44\n'
+b'Scores: 26\n'
+b'Scores: 29\n'
+b'Scores: 30\n'
+b'Scores: 37\n'
+b'Scores: 40\n'
+b'Scores: 29\n'
+Results: [17, 68, 44, 26, 29, 30, 37, 40, 29]
+Median: 30 [Min: 17, Max: 68]
+Average: 35.55555555555556
+Standard deviation: 13.73649729824497
+['g8c', 'g5i']  running 9 handles
+b'Scores: 19\n'
+b'Scores: 41\n'
+b'Scores: 29\n'
+b'Scores: 22\n'
+b'Scores: 34\n'
+b'Scores: 31\n'
+b'Scores: 26\n'
+b'Scores: 29\n'
+b'Scores: 33\n'
+Results: [19, 41, 29, 22, 34, 31, 26, 29, 33]
+Median: 29 [Min: 19, Max: 41]
+Average: 29.333333333333332
+Standard deviation: 6.200358412579424
+['g8c', 'g7i']  running 9 handles
+b'Scores: 23\n'
+b'Scores: 32\n'
+b'Scores: 27\n'
+b'Scores: 17\n'
+b'Scores: 21\n'
+b'Scores: 44\n'
+b'Scores: 15\n'
+b'Scores: 25\n'
+b'Scores: 48\n'
+Results: [23, 32, 27, 17, 21, 44, 15, 25, 48]
+Median: 25 [Min: 15, Max: 48]
+Average: 28
+Standard deviation: 10.780641085864152
+['g9i', 'g2i']  running 9 handles
+b'Scores: 45\n'
+b'Scores: 64\n'
+b'Scores: 73\n'
+b'Scores: 26\n'
+b'Scores: 57\n'
+b'Scores: 35\n'
+b'Scores: 11\n'
+b'Scores: 28\n'
+b'Scores: 24\n'
+Results: [45, 64, 73, 26, 57, 35, 11, 28, 24]
+Median: 35 [Min: 11, Max: 73]
+Average: 40.333333333333336
+Standard deviation: 19.550504398153574
+['g9i', 'g5i']  running 9 handles
+b'Scores: 45\n'
+b'Scores: 87\n'
+b'Scores: 54\n'
+b'Scores: 26\n'
+b'Scores: 108\n'
+b'Scores: 21\n'
+b'Scores: 19\n'
+b'Scores: 21\n'
+b'Scores: 28\n'
+Results: [45, 87, 54, 26, 108, 21, 19, 21, 28]
+Median: 28 [Min: 19, Max: 108]
+Average: 45.44444444444444
+Standard deviation: 30.350219150265385
+['g9i', 'g7i']  running 9 handles
+b'Scores: 50\n'
+b'Scores: 36\n'
+b'Scores: 53\n'
+b'Scores: 77\n'
+b'Scores: 10\n'
+b'Scores: 20\n'
+b'Scores: 36\n'
+b'Scores: 29\n'
+b'Scores: 23\n'
+Results: [50, 36, 53, 77, 10, 20, 36, 29, 23]
+Median: 36 [Min: 10, Max: 77]
+Average: 37.111111111111114
+Standard deviation: 19.16272101094231
+['g9i', 'g8c']  running 9 handles
+b'Scores: 18\n'
+b'Scores: 28\n'
+b'Scores: 46\n'
+b'Scores: 17\n'
+b'Scores: 43\n'
+b'Scores: 26\n'
+b'Scores: 12\n'
+b'Scores: 52\n'
+b'Scores: 64\n'
+Results: [18, 28, 46, 17, 43, 26, 12, 52, 64]
+Median: 28 [Min: 12, Max: 64]
+Average: 34
+Standard deviation: 16.924669699714805
+['random', 'g2i']  running 9 handles
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+Results: [-1, -1, -1, -1, -1, -1, -1, -1, -1]
+Median: -1 [Min: -1, Max: -1]
+Average: -1
+Standard deviation: 0.0
+['random', 'g5i']  running 9 handles
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+Results: [-1, -1, -1, -1, -1, -1, -1, -1, -1]
+Median: -1 [Min: -1, Max: -1]
+Average: -1
+Standard deviation: 0.0
+['random', 'g7i']  running 9 handles
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+Results: [-1, -1, -1, -1, -1, -1, -1, -1, -1]
+Median: -1 [Min: -1, Max: -1]
+Average: -1
+Standard deviation: 0.0
+['random', 'g8c']  running 9 handles
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+Results: [-1, -1, -1, -1, -1, -1, -1, -1, -1]
+Median: -1 [Min: -1, Max: -1]
+Average: -1
+Standard deviation: 0.0
+['random', 'g9i']  running 9 handles
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+b'You are doomed!\n'
+Results: [-1, -1, -1, -1, -1, -1, -1, -1, -1]
+Median: -1 [Min: -1, Max: -1]
+Average: -1
+Standard deviation: 0.0

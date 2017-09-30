@@ -1,0 +1,3231 @@
+Starting game with 10 players
+Round 1
+Player 1 attempts to hold handle 4
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 3
+Player 4 attempts to hold handle 1
+Player 5 attempts to hold handle 3
+Player 6 attempts to hold handle 1
+Player 7 attempts to hold handle 4
+Player 8 attempts to hold handle 5
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 5
+Attempting handle 1: 4 6
+Attempting handle 3: 3 5
+Attempting handle 4: 1 7
+Attempting handle 5: 8 10
+Attempting handle 8: 2
+Attempting handle 9: 9
+Round 2
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 10
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 6
+Player 7 attempts to hold handle 6
+Player 8 attempts to hold handle 4
+Player 9 attempts to hold handle 5
+Player 10 attempts to hold handle 4
+Attempting handle 3: 2
+Attempting handle 4: 8 10
+Attempting handle 5: 9
+Attempting handle 6: 1 6 7
+Attempting handle 8: 3
+Attempting handle 10: 4 5
+Round 3
+Player 1 attempts to hold handle 2
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 7
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 2
+Attempting handle 2: 1 3 10
+Attempting handle 3: 8
+Attempting handle 5: 4
+Attempting handle 7: 5 6
+Attempting handle 8: 2 7
+Attempting handle 9: 9
+Round 4
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 9
+Player 7 attempts to hold handle 5
+Player 8 attempts to hold handle 7
+Player 9 attempts to hold handle 5
+Player 10 attempts to hold handle 7
+Attempting handle 3: 2
+Attempting handle 5: 5 7 9
+Attempting handle 7: 8 10
+Attempting handle 8: 3
+Attempting handle 9: 4 6
+Attempting handle 10: 1
+Round 5
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 8
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 10
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 10
+Attempting handle 1: 3
+Attempting handle 3: 6 8
+Attempting handle 5: 4
+Attempting handle 6: 1
+Attempting handle 8: 2 5
+Attempting handle 9: 9
+Attempting handle 10: 7 10
+Round 6
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 4
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 9
+Player 9 attempts to hold handle 5
+Player 10 attempts to hold handle 2
+Attempting handle 2: 6 10
+Attempting handle 3: 2
+Attempting handle 4: 5
+Attempting handle 5: 9
+Attempting handle 7: 4
+Attempting handle 8: 3 7
+Attempting handle 9: 8
+Attempting handle 10: 1
+Round 7
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 6
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 3
+Attempting handle 1: 3
+Attempting handle 3: 8 10
+Attempting handle 4: 6
+Attempting handle 5: 4
+Attempting handle 6: 1 5
+Attempting handle 7: 7
+Attempting handle 8: 2
+Attempting handle 9: 9
+Round 8
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 4
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 9
+Player 9 attempts to hold handle 5
+Player 10 attempts to hold handle 6
+Attempting handle 1: 7
+Attempting handle 3: 2
+Attempting handle 4: 5
+Attempting handle 5: 9
+Attempting handle 6: 10
+Attempting handle 7: 4 6
+Attempting handle 8: 3
+Attempting handle 9: 8
+Attempting handle 10: 1
+Round 9
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 4
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 1
+Attempting handle 1: 3 10
+Attempting handle 3: 8
+Attempting handle 4: 5 6
+Attempting handle 5: 4
+Attempting handle 6: 1
+Attempting handle 7: 7
+Attempting handle 8: 2
+Attempting handle 9: 9
+Round 10
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 9
+Player 9 attempts to hold handle 5
+Player 10 attempts to hold handle 6
+Attempting handle 1: 7
+Attempting handle 2: 5
+Attempting handle 3: 2 6
+Attempting handle 5: 9
+Attempting handle 6: 10
+Attempting handle 7: 4
+Attempting handle 8: 3
+Attempting handle 9: 8
+Attempting handle 10: 1
+Round 11
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 6
+Attempting handle 1: 3
+Attempting handle 3: 8
+Attempting handle 4: 6
+Attempting handle 5: 4
+Attempting handle 6: 1 10
+Attempting handle 7: 7
+Attempting handle 8: 2
+Attempting handle 9: 9
+Attempting handle 10: 5
+Round 12
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 1
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 9
+Player 9 attempts to hold handle 5
+Player 10 attempts to hold handle 5
+Attempting handle 1: 6 7
+Attempting handle 2: 5
+Attempting handle 3: 2
+Attempting handle 5: 9 10
+Attempting handle 7: 4
+Attempting handle 8: 3
+Attempting handle 9: 8
+Attempting handle 10: 1
+Round 13
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 7
+Attempting handle 1: 3
+Attempting handle 3: 8
+Attempting handle 4: 6
+Attempting handle 5: 4
+Attempting handle 6: 1
+Attempting handle 7: 7 10
+Attempting handle 8: 2
+Attempting handle 9: 9
+Attempting handle 10: 5
+Round 14
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 9
+Player 9 attempts to hold handle 5
+Player 10 attempts to hold handle 6
+Attempting handle 1: 7
+Attempting handle 2: 5
+Attempting handle 3: 2
+Attempting handle 5: 9
+Attempting handle 6: 10
+Attempting handle 7: 4
+Attempting handle 8: 3 6
+Attempting handle 9: 8
+Attempting handle 10: 1
+Round 15
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 7
+Attempting handle 1: 3
+Attempting handle 3: 8
+Attempting handle 4: 6
+Attempting handle 5: 4
+Attempting handle 6: 1
+Attempting handle 7: 7 10
+Attempting handle 8: 2
+Attempting handle 9: 9
+Attempting handle 10: 5
+Round 16
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 9
+Player 9 attempts to hold handle 5
+Player 10 attempts to hold handle 6
+Attempting handle 1: 7
+Attempting handle 2: 5
+Attempting handle 3: 2
+Attempting handle 5: 9
+Attempting handle 6: 10
+Attempting handle 7: 4
+Attempting handle 8: 3 6
+Attempting handle 9: 8
+Attempting handle 10: 1
+Round 17
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 9
+Attempting handle 1: 3
+Attempting handle 3: 8
+Attempting handle 4: 6
+Attempting handle 5: 4
+Attempting handle 6: 1
+Attempting handle 7: 7
+Attempting handle 8: 2
+Attempting handle 9: 9 10
+Attempting handle 10: 5
+Round 18
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 9
+Player 9 attempts to hold handle 5
+Player 10 attempts to hold handle 6
+Attempting handle 1: 7
+Attempting handle 2: 5
+Attempting handle 3: 2
+Attempting handle 5: 9
+Attempting handle 6: 10
+Attempting handle 7: 4
+Attempting handle 8: 3 6
+Attempting handle 9: 8
+Attempting handle 10: 1
+Round 19
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 4
+Attempting handle 1: 3
+Attempting handle 3: 8
+Attempting handle 4: 6 10
+Attempting handle 5: 4
+Attempting handle 6: 1
+Attempting handle 7: 7
+Attempting handle 8: 2
+Attempting handle 9: 9
+Attempting handle 10: 5
+Round 20
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 9
+Player 9 attempts to hold handle 5
+Player 10 attempts to hold handle 6
+Attempting handle 1: 7
+Attempting handle 2: 5
+Attempting handle 3: 2
+Attempting handle 5: 9
+Attempting handle 6: 10
+Attempting handle 7: 4
+Attempting handle 8: 3 6
+Attempting handle 9: 8
+Attempting handle 10: 1
+Round 21
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 4
+Attempting handle 1: 3
+Attempting handle 3: 8
+Attempting handle 4: 6 10
+Attempting handle 5: 4
+Attempting handle 6: 1
+Attempting handle 7: 7
+Attempting handle 8: 2
+Attempting handle 9: 9
+Attempting handle 10: 5
+Round 22
+Player 1 attempts to hold handle 7
+Player 2 attempts to hold handle 6
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 3
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 8
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 9
+Attempting handle 3: 5 6
+Attempting handle 4: 3
+Attempting handle 5: 4
+Attempting handle 6: 2
+Attempting handle 7: 1 7
+Attempting handle 8: 8
+Attempting handle 9: 10
+Attempting handle 10: 9
+Round 23
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 10
+Player 7 attempts to hold handle 6
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 3
+Attempting handle 1: 3
+Attempting handle 3: 8 10
+Attempting handle 5: 4
+Attempting handle 6: 1 7
+Attempting handle 8: 2
+Attempting handle 9: 9
+Attempting handle 10: 5 6
+Round 24
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 6
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 4
+Player 6 attempts to hold handle 6
+Player 7 attempts to hold handle 5
+Player 8 attempts to hold handle 8
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 9
+Attempting handle 4: 3 5
+Attempting handle 5: 1 4 7
+Attempting handle 6: 2 6
+Attempting handle 8: 8
+Attempting handle 9: 10
+Attempting handle 10: 9
+Round 25
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 3
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 1
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 8
+Attempting handle 1: 3 6
+Attempting handle 3: 4 8
+Attempting handle 6: 1
+Attempting handle 7: 7
+Attempting handle 8: 2 10
+Attempting handle 9: 9
+Attempting handle 10: 5
+Round 26
+Player 1 attempts to hold handle 4
+Player 2 attempts to hold handle 6
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 8
+Player 5 attempts to hold handle 7
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 8
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 9
+Attempting handle 1: 7
+Attempting handle 2: 6
+Attempting handle 4: 1 3
+Attempting handle 6: 2
+Attempting handle 7: 5
+Attempting handle 8: 4 8
+Attempting handle 9: 10
+Attempting handle 10: 9
+Round 27
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 7
+Attempting handle 1: 3
+Attempting handle 2: 6
+Attempting handle 3: 8
+Attempting handle 5: 4
+Attempting handle 6: 1
+Attempting handle 7: 7 10
+Attempting handle 8: 2
+Attempting handle 9: 9
+Attempting handle 10: 5
+Round 28
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 6
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 7
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 8
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 9
+Attempting handle 1: 1 7
+Attempting handle 2: 6
+Attempting handle 4: 3
+Attempting handle 6: 2
+Attempting handle 7: 5
+Attempting handle 8: 8
+Attempting handle 9: 4 10
+Attempting handle 10: 9
+Round 29
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 1
+Attempting handle 1: 3 10
+Attempting handle 2: 6
+Attempting handle 3: 8
+Attempting handle 5: 4
+Attempting handle 6: 1
+Attempting handle 7: 7
+Attempting handle 8: 2
+Attempting handle 9: 9
+Attempting handle 10: 5
+Round 30
+Player 1 attempts to hold handle 8
+Player 2 attempts to hold handle 6
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 1
+Player 5 attempts to hold handle 7
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 8
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 9
+Attempting handle 1: 4 7
+Attempting handle 2: 6
+Attempting handle 4: 3
+Attempting handle 6: 2
+Attempting handle 7: 5
+Attempting handle 8: 1 8
+Attempting handle 9: 10
+Attempting handle 10: 9
+Round 31
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 2
+Attempting handle 1: 3
+Attempting handle 2: 6 10
+Attempting handle 3: 8
+Attempting handle 5: 4
+Attempting handle 6: 1
+Attempting handle 7: 7
+Attempting handle 8: 2
+Attempting handle 9: 9
+Attempting handle 10: 5
+Round 32
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 6
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 7
+Player 6 attempts to hold handle 5
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 8
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 9
+Attempting handle 1: 7
+Attempting handle 2: 4
+Attempting handle 4: 3
+Attempting handle 5: 6
+Attempting handle 6: 1 2
+Attempting handle 7: 5
+Attempting handle 8: 8
+Attempting handle 9: 10
+Attempting handle 10: 9
+Round 33
+Player 1 attempts to hold handle 7
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 5
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 9
+Attempting handle 1: 3
+Attempting handle 3: 8
+Attempting handle 5: 4 6
+Attempting handle 7: 1 7
+Attempting handle 8: 2
+Attempting handle 9: 9 10
+Attempting handle 10: 5
+Round 34
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 6
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 7
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 8
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 7
+Attempting handle 1: 7
+Attempting handle 2: 4 6
+Attempting handle 4: 3
+Attempting handle 6: 2
+Attempting handle 7: 5 10
+Attempting handle 8: 8
+Attempting handle 10: 1 9
+Round 35
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 9
+Attempting handle 1: 3
+Attempting handle 3: 8
+Attempting handle 5: 4
+Attempting handle 6: 1
+Attempting handle 7: 7
+Attempting handle 8: 2 6
+Attempting handle 9: 9 10
+Attempting handle 10: 5
+Round 36
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 6
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 7
+Player 6 attempts to hold handle 5
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 8
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 1
+Attempting handle 1: 7 10
+Attempting handle 2: 4
+Attempting handle 4: 3
+Attempting handle 5: 6
+Attempting handle 6: 2
+Attempting handle 7: 5
+Attempting handle 8: 8
+Attempting handle 10: 1 9
+Round 37
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 10
+Attempting handle 1: 3
+Attempting handle 3: 8
+Attempting handle 5: 4
+Attempting handle 6: 1
+Attempting handle 7: 6 7
+Attempting handle 8: 2
+Attempting handle 9: 9
+Attempting handle 10: 5 10
+Round 38
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 6
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 7
+Player 6 attempts to hold handle 5
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 8
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 9
+Attempting handle 1: 7
+Attempting handle 2: 4
+Attempting handle 4: 3
+Attempting handle 5: 6
+Attempting handle 6: 2
+Attempting handle 7: 5
+Attempting handle 8: 8
+Attempting handle 9: 1 10
+Attempting handle 10: 9
+Round 39
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 9
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 6
+Attempting handle 1: 3
+Attempting handle 3: 8
+Attempting handle 5: 4
+Attempting handle 6: 1 10
+Attempting handle 7: 7
+Attempting handle 8: 2
+Attempting handle 9: 6 9
+Attempting handle 10: 5
+Round 40
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 6
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 7
+Player 6 attempts to hold handle 5
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 8
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 10
+Attempting handle 1: 7
+Attempting handle 2: 4
+Attempting handle 4: 3
+Attempting handle 5: 6
+Attempting handle 6: 2
+Attempting handle 7: 5
+Attempting handle 8: 8
+Attempting handle 10: 1 9 10
+Round 41
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 6
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 5
+Attempting handle 1: 3
+Attempting handle 3: 8
+Attempting handle 5: 4 10
+Attempting handle 6: 1 6
+Attempting handle 7: 7
+Attempting handle 8: 2
+Attempting handle 9: 9
+Attempting handle 10: 5
+Round 42
+Player 1 attempts to hold handle 8
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 1
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 10
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 7
+Player 10 attempts to hold handle 10
+Attempting handle 1: 2 4
+Attempting handle 2: 3
+Attempting handle 5: 5
+Attempting handle 6: 8
+Attempting handle 7: 9
+Attempting handle 8: 1 7
+Attempting handle 10: 6 10
+Round 43
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 3
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 4
+Attempting handle 1: 1 3
+Attempting handle 3: 4 6 8
+Attempting handle 4: 10
+Attempting handle 7: 7
+Attempting handle 8: 2
+Attempting handle 9: 9
+Attempting handle 10: 5
+Round 44
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 10
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 5
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 7
+Player 10 attempts to hold handle 9
+Attempting handle 2: 3
+Attempting handle 5: 5 7
+Attempting handle 6: 8
+Attempting handle 7: 6 9
+Attempting handle 8: 2
+Attempting handle 9: 1 10
+Attempting handle 10: 4
+Round 45
+Player 1 attempts to hold handle 4
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 1
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 4
+Attempting handle 1: 3 4
+Attempting handle 2: 6
+Attempting handle 3: 8
+Attempting handle 4: 1 10
+Attempting handle 7: 7
+Attempting handle 8: 2
+Attempting handle 9: 9
+Attempting handle 10: 5
+Round 46
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 10
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 1
+Player 7 attempts to hold handle 6
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 7
+Player 10 attempts to hold handle 6
+Attempting handle 1: 6
+Attempting handle 2: 3
+Attempting handle 5: 5
+Attempting handle 6: 7 8 10
+Attempting handle 7: 9
+Attempting handle 8: 2
+Attempting handle 10: 1 4
+Round 47
+Player 1 attempts to hold handle 2
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 4
+Attempting handle 1: 3
+Attempting handle 2: 1 6
+Attempting handle 3: 8
+Attempting handle 4: 4 10
+Attempting handle 7: 7
+Attempting handle 8: 2
+Attempting handle 9: 9
+Attempting handle 10: 5
+Round 48
+Player 1 attempts to hold handle 3
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 10
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 1
+Player 7 attempts to hold handle 2
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 7
+Player 10 attempts to hold handle 3
+Attempting handle 1: 6
+Attempting handle 2: 3 7
+Attempting handle 3: 1 10
+Attempting handle 5: 5
+Attempting handle 6: 8
+Attempting handle 7: 9
+Attempting handle 8: 2
+Attempting handle 10: 4
+Round 49
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 8
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 4
+Attempting handle 1: 3
+Attempting handle 2: 6
+Attempting handle 3: 2 8
+Attempting handle 4: 10
+Attempting handle 7: 7
+Attempting handle 8: 4
+Attempting handle 9: 1 9
+Attempting handle 10: 5
+Round 50
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 10
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 1
+Player 7 attempts to hold handle 3
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 7
+Player 10 attempts to hold handle 4
+Attempting handle 1: 6
+Attempting handle 2: 3
+Attempting handle 3: 7
+Attempting handle 4: 10
+Attempting handle 5: 5
+Attempting handle 6: 1 8
+Attempting handle 7: 9
+Attempting handle 8: 2
+Attempting handle 10: 4
+Round 51
+Player 1 attempts to hold handle 8
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 8
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 4
+Attempting handle 1: 2 3
+Attempting handle 2: 6
+Attempting handle 3: 8
+Attempting handle 4: 10
+Attempting handle 7: 7
+Attempting handle 8: 1 4
+Attempting handle 9: 9
+Attempting handle 10: 5
+Round 52
+Player 1 attempts to hold handle 7
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 10
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 1
+Player 7 attempts to hold handle 3
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 7
+Player 10 attempts to hold handle 4
+Attempting handle 1: 6
+Attempting handle 2: 3
+Attempting handle 3: 7
+Attempting handle 4: 10
+Attempting handle 5: 5
+Attempting handle 6: 8
+Attempting handle 7: 1 9
+Attempting handle 8: 2
+Attempting handle 10: 4
+Round 53
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 8
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 4
+Attempting handle 1: 3
+Attempting handle 2: 6
+Attempting handle 3: 8
+Attempting handle 4: 10
+Attempting handle 5: 1
+Attempting handle 7: 7
+Attempting handle 8: 2 4
+Attempting handle 9: 9
+Attempting handle 10: 5
+Round 54
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 6
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 10
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 1
+Player 7 attempts to hold handle 3
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 7
+Player 10 attempts to hold handle 4
+Attempting handle 1: 1 6
+Attempting handle 2: 3
+Attempting handle 3: 7
+Attempting handle 4: 10
+Attempting handle 5: 5
+Attempting handle 6: 2 8
+Attempting handle 7: 9
+Attempting handle 10: 4
+Round 55
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 9
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 8
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 4
+Attempting handle 1: 3
+Attempting handle 2: 6
+Attempting handle 3: 8
+Attempting handle 4: 10
+Attempting handle 5: 1
+Attempting handle 7: 7
+Attempting handle 8: 4
+Attempting handle 9: 2 9
+Attempting handle 10: 5
+Round 56
+Player 1 attempts to hold handle 4
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 10
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 1
+Player 7 attempts to hold handle 3
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 7
+Player 10 attempts to hold handle 1
+Attempting handle 1: 6 10
+Attempting handle 2: 3
+Attempting handle 3: 7
+Attempting handle 4: 1
+Attempting handle 5: 5
+Attempting handle 6: 8
+Attempting handle 7: 9
+Attempting handle 8: 2
+Attempting handle 10: 4
+Round 57
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 8
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 4
+Attempting handle 1: 3
+Attempting handle 2: 6
+Attempting handle 3: 8
+Attempting handle 4: 2 10
+Attempting handle 5: 1
+Attempting handle 7: 7
+Attempting handle 8: 4
+Attempting handle 9: 9
+Attempting handle 10: 5
+Round 58
+Player 1 attempts to hold handle 4
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 10
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 1
+Player 7 attempts to hold handle 3
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 7
+Player 10 attempts to hold handle 5
+Attempting handle 1: 6
+Attempting handle 2: 3
+Attempting handle 3: 7
+Attempting handle 4: 1
+Attempting handle 5: 5 10
+Attempting handle 6: 8
+Attempting handle 7: 9
+Attempting handle 8: 2
+Attempting handle 10: 4
+Round 59
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 10
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 8
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 4
+Attempting handle 1: 3
+Attempting handle 2: 6
+Attempting handle 3: 8
+Attempting handle 4: 10
+Attempting handle 5: 1
+Attempting handle 7: 7
+Attempting handle 8: 4
+Attempting handle 9: 9
+Attempting handle 10: 2 5
+Round 60
+Player 1 attempts to hold handle 4
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 10
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 1
+Player 7 attempts to hold handle 3
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 7
+Player 10 attempts to hold handle 4
+Attempting handle 1: 6
+Attempting handle 2: 3
+Attempting handle 3: 7
+Attempting handle 4: 1 10
+Attempting handle 5: 5
+Attempting handle 6: 8
+Attempting handle 7: 9
+Attempting handle 8: 2
+Attempting handle 10: 4
+Round 61
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 7
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 8
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 9
+Attempting handle 1: 3
+Attempting handle 2: 6
+Attempting handle 3: 8
+Attempting handle 5: 1
+Attempting handle 7: 2 7
+Attempting handle 8: 4
+Attempting handle 9: 9 10
+Attempting handle 10: 5
+Round 62
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 7
+Player 4 attempts to hold handle 8
+Player 5 attempts to hold handle 7
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 3
+Player 8 attempts to hold handle 8
+Player 9 attempts to hold handle 7
+Player 10 attempts to hold handle 5
+Attempting handle 1: 2
+Attempting handle 3: 7
+Attempting handle 5: 10
+Attempting handle 7: 3 5 9
+Attempting handle 8: 4 6 8
+Attempting handle 10: 1
+Round 63
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 1
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 2
+Attempting handle 1: 3 4 7
+Attempting handle 2: 2 6 10
+Attempting handle 3: 8
+Attempting handle 5: 1
+Attempting handle 6: 9
+Attempting handle 10: 5
+Round 64
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 6
+Player 7 attempts to hold handle 3
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 5
+Player 10 attempts to hold handle 5
+Attempting handle 1: 2
+Attempting handle 2: 5
+Attempting handle 3: 7
+Attempting handle 5: 3 9 10
+Attempting handle 6: 6 8
+Attempting handle 9: 4
+Attempting handle 10: 1
+Round 65
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 8
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 6
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 8
+Attempting handle 1: 3
+Attempting handle 2: 6
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 6: 7 9
+Attempting handle 8: 4 10
+Attempting handle 10: 5
+Round 66
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 10
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 3
+Player 8 attempts to hold handle 5
+Player 9 attempts to hold handle 4
+Player 10 attempts to hold handle 5
+Attempting handle 1: 2
+Attempting handle 2: 5
+Attempting handle 3: 7
+Attempting handle 4: 9
+Attempting handle 5: 8 10
+Attempting handle 7: 6
+Attempting handle 9: 4
+Attempting handle 10: 1 3
+Round 67
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 2
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 1
+Attempting handle 1: 3 10
+Attempting handle 2: 6 7
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 6: 9
+Attempting handle 9: 4
+Attempting handle 10: 5
+Round 68
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 3
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 3
+Player 8 attempts to hold handle 2
+Player 9 attempts to hold handle 4
+Player 10 attempts to hold handle 5
+Attempting handle 1: 2
+Attempting handle 2: 5 8
+Attempting handle 3: 3 7
+Attempting handle 4: 9
+Attempting handle 5: 10
+Attempting handle 7: 6
+Attempting handle 9: 4
+Attempting handle 10: 1
+Round 69
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 4
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 3
+Attempting handle 1: 3
+Attempting handle 2: 6
+Attempting handle 3: 8 10
+Attempting handle 4: 2 7
+Attempting handle 5: 1
+Attempting handle 6: 9
+Attempting handle 9: 4
+Attempting handle 10: 5
+Round 70
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 3
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 4
+Player 10 attempts to hold handle 5
+Attempting handle 1: 2 8
+Attempting handle 2: 3 5
+Attempting handle 3: 7
+Attempting handle 4: 9
+Attempting handle 5: 10
+Attempting handle 7: 6
+Attempting handle 9: 4
+Attempting handle 10: 1
+Round 71
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 9
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 7
+Attempting handle 1: 3
+Attempting handle 2: 6
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 6: 9
+Attempting handle 7: 10
+Attempting handle 9: 4 7
+Attempting handle 10: 5
+Round 72
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 9
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 3
+Player 8 attempts to hold handle 4
+Player 9 attempts to hold handle 4
+Player 10 attempts to hold handle 5
+Attempting handle 1: 2
+Attempting handle 2: 5
+Attempting handle 3: 7
+Attempting handle 4: 8 9
+Attempting handle 5: 4 10
+Attempting handle 7: 6
+Attempting handle 9: 3
+Attempting handle 10: 1
+Round 73
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 7
+Attempting handle 1: 3
+Attempting handle 2: 6
+Attempting handle 3: 8
+Attempting handle 4: 2 4
+Attempting handle 5: 1
+Attempting handle 6: 9
+Attempting handle 7: 10
+Attempting handle 8: 7
+Attempting handle 10: 5
+Round 74
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 9
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 3
+Player 8 attempts to hold handle 7
+Player 9 attempts to hold handle 4
+Player 10 attempts to hold handle 5
+Attempting handle 1: 2
+Attempting handle 2: 5
+Attempting handle 3: 7
+Attempting handle 4: 9
+Attempting handle 5: 10
+Attempting handle 7: 6 8
+Attempting handle 9: 3 4
+Attempting handle 10: 1
+Round 75
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 10
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 7
+Attempting handle 1: 3
+Attempting handle 2: 6
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 6: 9
+Attempting handle 7: 10
+Attempting handle 8: 7
+Attempting handle 10: 4 5
+Round 76
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 9
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 3
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 4
+Player 10 attempts to hold handle 5
+Attempting handle 1: 2
+Attempting handle 2: 4 5
+Attempting handle 3: 7 8
+Attempting handle 4: 9
+Attempting handle 5: 10
+Attempting handle 7: 6
+Attempting handle 9: 3
+Attempting handle 10: 1
+Round 77
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 9
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 7
+Attempting handle 1: 3
+Attempting handle 2: 6
+Attempting handle 4: 2
+Attempting handle 5: 1 4
+Attempting handle 6: 9
+Attempting handle 7: 10
+Attempting handle 8: 7
+Attempting handle 9: 8
+Attempting handle 10: 5
+Round 78
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 9
+Player 4 attempts to hold handle 1
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 3
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 4
+Player 10 attempts to hold handle 5
+Attempting handle 1: 2 4
+Attempting handle 2: 5
+Attempting handle 3: 7 8
+Attempting handle 4: 9
+Attempting handle 5: 10
+Attempting handle 7: 6
+Attempting handle 9: 3
+Attempting handle 10: 1
+Round 79
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 9
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 7
+Attempting handle 1: 3
+Attempting handle 2: 4 6
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 6: 9
+Attempting handle 7: 10
+Attempting handle 8: 7
+Attempting handle 9: 8
+Attempting handle 10: 5
+Round 80
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 9
+Player 4 attempts to hold handle 10
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 3
+Player 8 attempts to hold handle 9
+Player 9 attempts to hold handle 4
+Player 10 attempts to hold handle 5
+Attempting handle 1: 2
+Attempting handle 2: 5
+Attempting handle 3: 7
+Attempting handle 4: 9
+Attempting handle 5: 10
+Attempting handle 7: 6
+Attempting handle 9: 3 8
+Attempting handle 10: 1 4
+Round 81
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 7
+Attempting handle 1: 3
+Attempting handle 2: 4 6
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 6: 9
+Attempting handle 7: 10
+Attempting handle 8: 7
+Attempting handle 10: 5
+Round 82
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 9
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 9
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 3
+Attempting handle 1: 8
+Attempting handle 2: 3
+Attempting handle 3: 2 10
+Attempting handle 4: 4
+Attempting handle 5: 1
+Attempting handle 6: 9
+Attempting handle 8: 6
+Attempting handle 9: 5 7
+Round 83
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 10
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 7
+Attempting handle 1: 3
+Attempting handle 3: 8
+Attempting handle 4: 2 6
+Attempting handle 5: 1
+Attempting handle 6: 9
+Attempting handle 7: 10
+Attempting handle 8: 7
+Attempting handle 10: 4 5
+Round 84
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 10
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 4
+Attempting handle 1: 8
+Attempting handle 2: 3 5
+Attempting handle 4: 4 10
+Attempting handle 6: 9
+Attempting handle 7: 7
+Attempting handle 8: 6
+Attempting handle 9: 1
+Attempting handle 10: 2
+Round 85
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 3
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 10
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 4
+Player 10 attempts to hold handle 7
+Attempting handle 1: 3
+Attempting handle 3: 4 8
+Attempting handle 4: 2 9
+Attempting handle 5: 1
+Attempting handle 7: 10
+Attempting handle 8: 7
+Attempting handle 10: 5 6
+Round 86
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 10
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 3
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 9
+Attempting handle 1: 8
+Attempting handle 2: 3
+Attempting handle 3: 5
+Attempting handle 4: 4
+Attempting handle 6: 9
+Attempting handle 7: 7
+Attempting handle 8: 6
+Attempting handle 9: 1 10
+Attempting handle 10: 2
+Round 87
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 5
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 5
+Player 10 attempts to hold handle 7
+Attempting handle 1: 3
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1 4 6 9
+Attempting handle 7: 10
+Attempting handle 8: 7
+Attempting handle 10: 5
+Round 88
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 10
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 3
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 1
+Attempting handle 1: 8 10
+Attempting handle 2: 3
+Attempting handle 3: 5
+Attempting handle 4: 4
+Attempting handle 6: 9
+Attempting handle 7: 7
+Attempting handle 8: 6
+Attempting handle 9: 1
+Attempting handle 10: 2
+Round 89
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 6
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 7
+Attempting handle 1: 3
+Attempting handle 3: 6 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 6: 4 9
+Attempting handle 7: 10
+Attempting handle 8: 7
+Attempting handle 10: 5
+Round 90
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 10
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 3
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 2
+Attempting handle 1: 8
+Attempting handle 2: 3 10
+Attempting handle 3: 5
+Attempting handle 4: 4
+Attempting handle 7: 7
+Attempting handle 8: 6
+Attempting handle 9: 1 9
+Attempting handle 10: 2
+Round 91
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 1
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 3
+Player 10 attempts to hold handle 7
+Attempting handle 1: 3 6
+Attempting handle 3: 8 9
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 7: 10
+Attempting handle 8: 7
+Attempting handle 9: 4
+Attempting handle 10: 5
+Round 92
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 10
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 3
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 8
+Player 10 attempts to hold handle 7
+Attempting handle 1: 8
+Attempting handle 2: 3
+Attempting handle 3: 5
+Attempting handle 4: 4
+Attempting handle 7: 7 10
+Attempting handle 8: 6 9
+Attempting handle 9: 1
+Attempting handle 10: 2
+Round 93
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 4
+Attempting handle 1: 3
+Attempting handle 2: 9
+Attempting handle 3: 8
+Attempting handle 4: 2 10
+Attempting handle 5: 1
+Attempting handle 7: 6
+Attempting handle 8: 7
+Attempting handle 9: 4
+Attempting handle 10: 5
+Round 94
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 10
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 3
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 3
+Attempting handle 3: 5
+Attempting handle 4: 4
+Attempting handle 6: 9 10
+Attempting handle 7: 7
+Attempting handle 8: 6
+Attempting handle 9: 1
+Attempting handle 10: 2
+Round 95
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 7
+Attempting handle 1: 3
+Attempting handle 2: 9
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 7: 6 10
+Attempting handle 8: 7
+Attempting handle 9: 4
+Attempting handle 10: 5
+Round 96
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 10
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 3
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 4
+Player 10 attempts to hold handle 10
+Attempting handle 1: 8
+Attempting handle 2: 3
+Attempting handle 3: 5
+Attempting handle 4: 4 9
+Attempting handle 7: 7
+Attempting handle 8: 6
+Attempting handle 9: 1
+Attempting handle 10: 2 10
+Round 97
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 9
+Attempting handle 1: 3
+Attempting handle 2: 9
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 7: 6
+Attempting handle 8: 7
+Attempting handle 9: 4 10
+Attempting handle 10: 5
+Round 98
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 10
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 3
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 3
+Player 10 attempts to hold handle 10
+Attempting handle 1: 8
+Attempting handle 2: 3
+Attempting handle 3: 5 9
+Attempting handle 4: 4
+Attempting handle 7: 7
+Attempting handle 8: 6
+Attempting handle 9: 1
+Attempting handle 10: 2 10
+Round 99
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 2
+Attempting handle 1: 3
+Attempting handle 2: 9 10
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 7: 6
+Attempting handle 8: 7
+Attempting handle 9: 4
+Attempting handle 10: 5
+Round 100
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 10
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 3
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 3
+Attempting handle 3: 5
+Attempting handle 4: 4
+Attempting handle 6: 10
+Attempting handle 7: 7
+Attempting handle 8: 6
+Attempting handle 9: 1
+Attempting handle 10: 2 9
+Round 101
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 1
+Attempting handle 1: 3 10
+Attempting handle 2: 9
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 7: 6
+Attempting handle 8: 7
+Attempting handle 9: 4
+Attempting handle 10: 5
+Round 102
+Player 1 attempts to hold handle 4
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 8
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 9
+Attempting handle 1: 2
+Attempting handle 2: 4
+Attempting handle 4: 1 3
+Attempting handle 5: 5
+Attempting handle 6: 9
+Attempting handle 7: 7
+Attempting handle 8: 6 8
+Attempting handle 9: 10
+Round 103
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 10
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 2: 9
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 6: 10
+Attempting handle 7: 6
+Attempting handle 8: 7
+Attempting handle 9: 4
+Attempting handle 10: 3 5
+Round 104
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 9
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 1
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 9
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 9
+Attempting handle 1: 1 2 6
+Attempting handle 2: 4
+Attempting handle 5: 5
+Attempting handle 6: 9
+Attempting handle 7: 7
+Attempting handle 9: 3 8 10
+Round 105
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 2: 9
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 6: 10
+Attempting handle 7: 6
+Attempting handle 8: 3 7
+Attempting handle 9: 4
+Attempting handle 10: 5
+Round 106
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 10
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 10
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 10
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 9
+Attempting handle 1: 2
+Attempting handle 2: 4
+Attempting handle 5: 5
+Attempting handle 6: 9
+Attempting handle 7: 7
+Attempting handle 9: 1 10
+Attempting handle 10: 3 6 8
+Round 107
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 3
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 2: 9
+Attempting handle 3: 3 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 6: 10
+Attempting handle 7: 6
+Attempting handle 8: 7
+Attempting handle 9: 4
+Attempting handle 10: 5
+Round 108
+Player 1 attempts to hold handle 3
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 9
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 9
+Attempting handle 1: 2 8
+Attempting handle 2: 4
+Attempting handle 3: 1
+Attempting handle 5: 5
+Attempting handle 6: 9
+Attempting handle 7: 7
+Attempting handle 8: 3
+Attempting handle 9: 6 10
+Round 109
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 2: 9
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1 3
+Attempting handle 6: 10
+Attempting handle 7: 6
+Attempting handle 8: 7
+Attempting handle 9: 4
+Attempting handle 10: 5
+Round 110
+Player 1 attempts to hold handle 3
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 9
+Attempting handle 1: 2
+Attempting handle 2: 4 6
+Attempting handle 3: 1
+Attempting handle 5: 5
+Attempting handle 6: 8 9
+Attempting handle 7: 7
+Attempting handle 8: 3
+Attempting handle 9: 10
+Round 111
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 9
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 2: 9
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 6: 10
+Attempting handle 7: 6
+Attempting handle 8: 7
+Attempting handle 9: 3 4
+Attempting handle 10: 5
+Round 112
+Player 1 attempts to hold handle 3
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 6
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 7
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 9
+Attempting handle 1: 2
+Attempting handle 2: 4
+Attempting handle 3: 1
+Attempting handle 5: 5
+Attempting handle 6: 6 9
+Attempting handle 7: 7 8
+Attempting handle 8: 3
+Attempting handle 9: 10
+Round 113
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 7
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 2: 9
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 6: 10
+Attempting handle 7: 3 6
+Attempting handle 8: 7
+Attempting handle 9: 4
+Attempting handle 10: 5
+Round 114
+Player 1 attempts to hold handle 3
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 4
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 9
+Attempting handle 1: 2
+Attempting handle 2: 4
+Attempting handle 3: 1 6
+Attempting handle 4: 8
+Attempting handle 5: 5
+Attempting handle 6: 9
+Attempting handle 7: 7
+Attempting handle 8: 3
+Attempting handle 9: 10
+Round 115
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 2: 3 9
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 6: 10
+Attempting handle 7: 6
+Attempting handle 8: 7
+Attempting handle 9: 4
+Attempting handle 10: 5
+Round 116
+Player 1 attempts to hold handle 3
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 4
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 9
+Attempting handle 1: 2
+Attempting handle 2: 4
+Attempting handle 3: 1 6
+Attempting handle 4: 8
+Attempting handle 5: 5
+Attempting handle 6: 9
+Attempting handle 7: 7
+Attempting handle 8: 3
+Attempting handle 9: 10
+Round 117
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 6
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 2: 9
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 6: 3 10
+Attempting handle 7: 6
+Attempting handle 8: 7
+Attempting handle 9: 4
+Attempting handle 10: 5
+Round 118
+Player 1 attempts to hold handle 3
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 4
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 9
+Attempting handle 1: 2
+Attempting handle 2: 4
+Attempting handle 3: 1
+Attempting handle 4: 6 8
+Attempting handle 5: 5
+Attempting handle 6: 9
+Attempting handle 7: 7
+Attempting handle 8: 3
+Attempting handle 9: 10
+Round 119
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 2
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 2: 3 9
+Attempting handle 3: 8
+Attempting handle 4: 2
+Attempting handle 5: 1
+Attempting handle 6: 10
+Attempting handle 7: 6
+Attempting handle 8: 7
+Attempting handle 9: 4
+Attempting handle 10: 5
+Round 120
+Player 1 attempts to hold handle 3
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 8
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 7
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 4
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 9
+Attempting handle 1: 2
+Attempting handle 2: 4
+Attempting handle 3: 1
+Attempting handle 4: 8
+Attempting handle 5: 5
+Attempting handle 6: 9
+Attempting handle 7: 6 7
+Attempting handle 8: 3
+Attempting handle 9: 10
+Round 121
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 5
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 2: 9
+Attempting handle 3: 8
+Attempting handle 4: 2 3
+Attempting handle 5: 1 6
+Attempting handle 6: 10
+Attempting handle 8: 7
+Attempting handle 9: 4
+Attempting handle 10: 5
+Round 122
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 10
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 6
+Player 6 attempts to hold handle 6
+Player 7 attempts to hold handle 10
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 5
+Player 10 attempts to hold handle 5
+Attempting handle 1: 1
+Attempting handle 2: 2
+Attempting handle 3: 8
+Attempting handle 5: 9 10
+Attempting handle 6: 5 6
+Attempting handle 9: 4
+Attempting handle 10: 3 7
+Round 123
+Player 1 attempts to hold handle 8
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 2: 9
+Attempting handle 3: 2 8
+Attempting handle 4: 6
+Attempting handle 5: 3
+Attempting handle 6: 10
+Attempting handle 8: 1 7
+Attempting handle 9: 4
+Attempting handle 10: 5
+Round 124
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 9
+Player 6 attempts to hold handle 2
+Player 7 attempts to hold handle 9
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 7
+Player 10 attempts to hold handle 7
+Attempting handle 1: 1 3
+Attempting handle 2: 2 6
+Attempting handle 6: 8
+Attempting handle 7: 9 10
+Attempting handle 9: 4 5 7
+Round 125
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 5
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 9
+Attempting handle 4: 4 6
+Attempting handle 5: 2 3
+Attempting handle 6: 10
+Attempting handle 8: 7
+Attempting handle 10: 1 5
+Round 126
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 1
+Player 7 attempts to hold handle 6
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 4
+Player 10 attempts to hold handle 8
+Attempting handle 1: 1 6
+Attempting handle 2: 2 4
+Attempting handle 4: 3 9
+Attempting handle 5: 5
+Attempting handle 6: 7 8
+Attempting handle 8: 10
+Round 127
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 2 8
+Attempting handle 2: 9
+Attempting handle 4: 6
+Attempting handle 5: 3 4
+Attempting handle 6: 10
+Attempting handle 8: 7
+Attempting handle 9: 1
+Attempting handle 10: 5
+Round 128
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 3
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 9
+Player 7 attempts to hold handle 1
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 8
+Attempting handle 1: 1 7
+Attempting handle 2: 2
+Attempting handle 3: 3
+Attempting handle 4: 4
+Attempting handle 5: 5
+Attempting handle 6: 8
+Attempting handle 8: 10
+Attempting handle 9: 6 9
+Round 129
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 9
+Attempting handle 4: 6
+Attempting handle 5: 3
+Attempting handle 6: 10
+Attempting handle 8: 2 7
+Attempting handle 9: 1 4
+Attempting handle 10: 5
+Round 130
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 3
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 4
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 1
+Player 10 attempts to hold handle 8
+Attempting handle 1: 1 9
+Attempting handle 2: 2
+Attempting handle 3: 3 6
+Attempting handle 4: 4 7
+Attempting handle 5: 5
+Attempting handle 6: 8
+Attempting handle 8: 10
+Round 131
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 6
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 9
+Attempting handle 4: 6
+Attempting handle 5: 3
+Attempting handle 6: 2 10
+Attempting handle 7: 4
+Attempting handle 8: 7
+Attempting handle 9: 1
+Attempting handle 10: 5
+Round 132
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 3
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 8
+Player 10 attempts to hold handle 8
+Attempting handle 1: 1
+Attempting handle 2: 2
+Attempting handle 3: 3
+Attempting handle 4: 4 6
+Attempting handle 5: 5
+Attempting handle 6: 8
+Attempting handle 8: 7 9 10
+Round 133
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 9
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 9
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 9
+Attempting handle 3: 6
+Attempting handle 5: 3
+Attempting handle 6: 10
+Attempting handle 7: 4
+Attempting handle 9: 1 2 7
+Attempting handle 10: 5
+Round 134
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 3
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 8
+Attempting handle 1: 1
+Attempting handle 2: 2
+Attempting handle 3: 3
+Attempting handle 4: 4
+Attempting handle 5: 5
+Attempting handle 6: 8
+Attempting handle 7: 7
+Attempting handle 8: 6 10
+Attempting handle 10: 9
+Round 135
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 10
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 9
+Attempting handle 3: 6
+Attempting handle 5: 3
+Attempting handle 6: 10
+Attempting handle 7: 4
+Attempting handle 8: 7
+Attempting handle 9: 1
+Attempting handle 10: 2 5
+Round 136
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 3
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 8
+Attempting handle 1: 1
+Attempting handle 2: 2
+Attempting handle 3: 3
+Attempting handle 4: 4
+Attempting handle 5: 5
+Attempting handle 6: 8
+Attempting handle 7: 7
+Attempting handle 8: 6 10
+Attempting handle 10: 9
+Round 137
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 9
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 9
+Attempting handle 3: 6
+Attempting handle 5: 3
+Attempting handle 6: 10
+Attempting handle 7: 4
+Attempting handle 8: 7
+Attempting handle 9: 1 2
+Attempting handle 10: 5
+Round 138
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 3
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 8
+Attempting handle 1: 1
+Attempting handle 2: 2
+Attempting handle 3: 3
+Attempting handle 4: 4
+Attempting handle 5: 5
+Attempting handle 6: 8
+Attempting handle 7: 7
+Attempting handle 8: 6 10
+Attempting handle 10: 9
+Round 139
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 2 9
+Attempting handle 3: 6
+Attempting handle 5: 3
+Attempting handle 6: 10
+Attempting handle 7: 4
+Attempting handle 8: 7
+Attempting handle 9: 1
+Attempting handle 10: 5
+Round 140
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 3
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 8
+Attempting handle 1: 1
+Attempting handle 3: 3
+Attempting handle 4: 4
+Attempting handle 5: 5
+Attempting handle 6: 8
+Attempting handle 7: 7
+Attempting handle 8: 2 6 10
+Attempting handle 10: 9
+Round 141
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 10
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 9
+Attempting handle 3: 6
+Attempting handle 5: 3
+Attempting handle 6: 10
+Attempting handle 7: 4
+Attempting handle 8: 7
+Attempting handle 9: 1
+Attempting handle 10: 2 5
+Round 142
+Player 1 attempts to hold handle 6
+Player 2 attempts to hold handle 9
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 1
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 9
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 2
+Attempting handle 1: 5
+Attempting handle 2: 10
+Attempting handle 5: 3
+Attempting handle 6: 1 8
+Attempting handle 7: 4
+Attempting handle 8: 6
+Attempting handle 9: 2 7
+Attempting handle 10: 9
+Round 143
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 6
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 3
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 9
+Attempting handle 3: 5 6
+Attempting handle 6: 3 10
+Attempting handle 7: 4
+Attempting handle 8: 2 7
+Attempting handle 9: 1
+Round 144
+Player 1 attempts to hold handle 8
+Player 2 attempts to hold handle 5
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 1
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 6
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 2
+Attempting handle 1: 5
+Attempting handle 2: 10
+Attempting handle 3: 8
+Attempting handle 5: 2 3
+Attempting handle 6: 7
+Attempting handle 7: 4
+Attempting handle 8: 1 6
+Attempting handle 10: 9
+Round 145
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 1
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 1
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 3 5 8
+Attempting handle 2: 9
+Attempting handle 3: 2 6
+Attempting handle 6: 10
+Attempting handle 7: 4
+Attempting handle 8: 7
+Attempting handle 9: 1
+Round 146
+Player 1 attempts to hold handle 3
+Player 2 attempts to hold handle 10
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 2
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 6
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 2
+Attempting handle 2: 5 10
+Attempting handle 3: 1 8
+Attempting handle 5: 3
+Attempting handle 6: 7
+Attempting handle 7: 4
+Attempting handle 8: 6
+Attempting handle 10: 2 9
+Round 147
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 5
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 7
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 9
+Attempting handle 3: 6
+Attempting handle 5: 2 3
+Attempting handle 6: 10
+Attempting handle 7: 4 5
+Attempting handle 8: 7
+Attempting handle 9: 1
+Round 148
+Player 1 attempts to hold handle 4
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 7
+Player 4 attempts to hold handle 8
+Player 5 attempts to hold handle 1
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 6
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 2
+Attempting handle 1: 5
+Attempting handle 2: 10
+Attempting handle 3: 8
+Attempting handle 4: 1 2
+Attempting handle 6: 7
+Attempting handle 7: 3
+Attempting handle 8: 4 6
+Attempting handle 10: 9
+Round 149
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 9
+Player 3 attempts to hold handle 7
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 4 9
+Attempting handle 3: 6
+Attempting handle 5: 5
+Attempting handle 6: 10
+Attempting handle 7: 3
+Attempting handle 8: 7
+Attempting handle 9: 1 2
+Round 150
+Player 1 attempts to hold handle 7
+Player 2 attempts to hold handle 7
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 7
+Player 5 attempts to hold handle 1
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 6
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 2
+Attempting handle 1: 5
+Attempting handle 2: 10
+Attempting handle 3: 8
+Attempting handle 5: 3
+Attempting handle 6: 7
+Attempting handle 7: 1 2 4
+Attempting handle 8: 6
+Attempting handle 10: 9
+Round 151
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 7
+Player 4 attempts to hold handle 3
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 9
+Attempting handle 3: 4 6
+Attempting handle 4: 2
+Attempting handle 5: 5
+Attempting handle 6: 10
+Attempting handle 7: 3
+Attempting handle 8: 7
+Attempting handle 9: 1
+Round 152
+Player 1 attempts to hold handle 2
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 1
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 6
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 2
+Attempting handle 1: 2 5
+Attempting handle 2: 1 10
+Attempting handle 3: 8
+Attempting handle 4: 4
+Attempting handle 5: 3
+Attempting handle 6: 7
+Attempting handle 8: 6
+Attempting handle 10: 9
+Round 153
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 7
+Player 4 attempts to hold handle 6
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 9
+Attempting handle 3: 6
+Attempting handle 4: 2
+Attempting handle 5: 5
+Attempting handle 6: 4 10
+Attempting handle 7: 3
+Attempting handle 8: 7
+Attempting handle 9: 1
+Round 154
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 1
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 6
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 2
+Attempting handle 1: 5
+Attempting handle 2: 10
+Attempting handle 3: 2 8
+Attempting handle 4: 4
+Attempting handle 5: 3
+Attempting handle 6: 7
+Attempting handle 8: 6
+Attempting handle 10: 1 9
+Round 155
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 7
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 9
+Attempting handle 3: 6
+Attempting handle 4: 2
+Attempting handle 5: 4 5
+Attempting handle 6: 10
+Attempting handle 7: 3
+Attempting handle 8: 7
+Attempting handle 9: 1
+Round 156
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 1
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 6
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 2
+Attempting handle 1: 1 5
+Attempting handle 2: 10
+Attempting handle 3: 8
+Attempting handle 4: 4
+Attempting handle 5: 3
+Attempting handle 6: 7
+Attempting handle 8: 2 6
+Attempting handle 10: 9
+Round 157
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 7
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 9
+Attempting handle 3: 6
+Attempting handle 4: 2 4
+Attempting handle 5: 5
+Attempting handle 6: 10
+Attempting handle 7: 3
+Attempting handle 8: 7
+Attempting handle 9: 1
+Round 158
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 8
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 3
+Player 5 attempts to hold handle 1
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 6
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 2
+Attempting handle 1: 5
+Attempting handle 2: 10
+Attempting handle 3: 4 8
+Attempting handle 5: 1 3
+Attempting handle 6: 7
+Attempting handle 8: 2 6
+Attempting handle 10: 9
+Round 159
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 7
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 9
+Attempting handle 3: 6
+Attempting handle 4: 2
+Attempting handle 5: 5
+Attempting handle 6: 10
+Attempting handle 7: 3
+Attempting handle 8: 7
+Attempting handle 9: 1 4
+Round 160
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 1
+Player 6 attempts to hold handle 8
+Player 7 attempts to hold handle 6
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 10
+Player 10 attempts to hold handle 2
+Attempting handle 1: 1 5
+Attempting handle 2: 10
+Attempting handle 3: 2 8
+Attempting handle 4: 4
+Attempting handle 5: 3
+Attempting handle 6: 7
+Attempting handle 8: 6
+Attempting handle 10: 9
+Round 161
+Player 1 attempts to hold handle 9
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 7
+Player 4 attempts to hold handle 9
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 9
+Attempting handle 3: 6
+Attempting handle 4: 2
+Attempting handle 5: 5
+Attempting handle 6: 10
+Attempting handle 7: 3
+Attempting handle 8: 7
+Attempting handle 9: 1 4
+Round 162
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 10
+Player 3 attempts to hold handle 7
+Player 4 attempts to hold handle 6
+Player 5 attempts to hold handle 10
+Player 6 attempts to hold handle 10
+Player 7 attempts to hold handle 7
+Player 8 attempts to hold handle 7
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 9
+Attempting handle 2: 9
+Attempting handle 5: 1
+Attempting handle 6: 4
+Attempting handle 7: 3 7 8
+Attempting handle 9: 10
+Attempting handle 10: 2 5 6
+Round 163
+Player 1 attempts to hold handle 3
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 8
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 9
+Attempting handle 3: 1 6
+Attempting handle 4: 2 3
+Attempting handle 5: 5
+Attempting handle 6: 10
+Attempting handle 8: 4 7
+Round 164
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 6
+Player 5 attempts to hold handle 5
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 2
+Player 8 attempts to hold handle 6
+Player 9 attempts to hold handle 2
+Player 10 attempts to hold handle 9
+Attempting handle 2: 7 9
+Attempting handle 3: 2
+Attempting handle 4: 6
+Attempting handle 5: 1 3 5
+Attempting handle 6: 4 8
+Attempting handle 9: 10
+Round 165
+Player 1 attempts to hold handle 7
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 7
+Player 4 attempts to hold handle 3
+Player 5 attempts to hold handle 6
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 3
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 3: 4 6 9
+Attempting handle 4: 2
+Attempting handle 6: 5 10
+Attempting handle 7: 1 3
+Attempting handle 8: 7
+Round 166
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 10
+Player 4 attempts to hold handle 6
+Player 5 attempts to hold handle 9
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 5
+Player 8 attempts to hold handle 9
+Player 9 attempts to hold handle 6
+Player 10 attempts to hold handle 9
+Attempting handle 3: 2
+Attempting handle 4: 6
+Attempting handle 5: 1 7
+Attempting handle 6: 4 9
+Attempting handle 9: 5 8 10
+Attempting handle 10: 3
+Round 167
+Player 1 attempts to hold handle 8
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 1
+Player 5 attempts to hold handle 7
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 4
+Player 10 attempts to hold handle 6
+Attempting handle 1: 4 8
+Attempting handle 3: 6
+Attempting handle 4: 2 9
+Attempting handle 5: 3
+Attempting handle 6: 10
+Attempting handle 7: 5
+Attempting handle 8: 1 7
+Round 168
+Player 1 attempts to hold handle 5
+Player 2 attempts to hold handle 3
+Player 3 attempts to hold handle 10
+Player 4 attempts to hold handle 6
+Player 5 attempts to hold handle 3
+Player 6 attempts to hold handle 4
+Player 7 attempts to hold handle 10
+Player 8 attempts to hold handle 3
+Player 9 attempts to hold handle 1
+Player 10 attempts to hold handle 9
+Attempting handle 1: 9
+Attempting handle 3: 2 5 8
+Attempting handle 4: 6
+Attempting handle 5: 1
+Attempting handle 6: 4
+Attempting handle 9: 10
+Attempting handle 10: 3 7
+Round 169
+Player 1 attempts to hold handle 10
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 7
+Player 6 attempts to hold handle 3
+Player 7 attempts to hold handle 8
+Player 8 attempts to hold handle 1
+Player 9 attempts to hold handle 9
+Player 10 attempts to hold handle 6
+Attempting handle 1: 8
+Attempting handle 2: 4
+Attempting handle 3: 6
+Attempting handle 4: 2
+Attempting handle 5: 3
+Attempting handle 6: 10
+Attempting handle 7: 5
+Attempting handle 8: 7
+Attempting handle 9: 9
+Attempting handle 10: 1
+Every player has a unique handle.
+Scores: 169

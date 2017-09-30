@@ -1,0 +1,146 @@
+Starting game with 5 players
+Round 1
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 5
+Player 3 attempts to hold handle 3
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 3
+Attempting handle 1: 1
+Attempting handle 3: 3 5
+Attempting handle 5: 2 4
+Round 2
+Player 1 attempts to hold handle 4
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 1
+Attempting handle 1: 5
+Attempting handle 4: 1 2 4
+Attempting handle 5: 3
+Round 3
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 1
+Player 5 attempts to hold handle 5
+Attempting handle 1: 1 2 4
+Attempting handle 4: 3
+Attempting handle 5: 5
+Round 4
+Player 1 attempts to hold handle 3
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 1
+Attempting handle 1: 5
+Attempting handle 2: 2
+Attempting handle 3: 1
+Attempting handle 5: 3 4
+Round 5
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 1
+Player 5 attempts to hold handle 5
+Attempting handle 1: 1 2 4
+Attempting handle 4: 3
+Attempting handle 5: 5
+Round 6
+Player 1 attempts to hold handle 3
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 3
+Player 5 attempts to hold handle 1
+Attempting handle 1: 5
+Attempting handle 2: 2
+Attempting handle 3: 1 4
+Attempting handle 5: 3
+Round 7
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 5
+Attempting handle 1: 1
+Attempting handle 2: 2
+Attempting handle 4: 3
+Attempting handle 5: 4 5
+Round 8
+Player 1 attempts to hold handle 3
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 1
+Attempting handle 1: 5
+Attempting handle 2: 2 4
+Attempting handle 3: 1
+Attempting handle 5: 3
+Round 9
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 4
+Player 5 attempts to hold handle 5
+Attempting handle 1: 1
+Attempting handle 4: 2 3 4
+Attempting handle 5: 5
+Round 10
+Player 1 attempts to hold handle 3
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 1
+Player 5 attempts to hold handle 1
+Attempting handle 1: 4 5
+Attempting handle 2: 2
+Attempting handle 3: 1
+Attempting handle 5: 3
+Round 11
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 4
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 5
+Attempting handle 1: 1
+Attempting handle 4: 2 3
+Attempting handle 5: 4 5
+Round 12
+Player 1 attempts to hold handle 3
+Player 2 attempts to hold handle 5
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 1
+Player 5 attempts to hold handle 1
+Attempting handle 1: 4 5
+Attempting handle 3: 1
+Attempting handle 5: 2 3
+Round 13
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 2
+Player 5 attempts to hold handle 5
+Attempting handle 1: 1
+Attempting handle 2: 2 4
+Attempting handle 4: 3
+Attempting handle 5: 5
+Round 14
+Player 1 attempts to hold handle 3
+Player 2 attempts to hold handle 1
+Player 3 attempts to hold handle 5
+Player 4 attempts to hold handle 5
+Player 5 attempts to hold handle 1
+Attempting handle 1: 2 5
+Attempting handle 3: 1
+Attempting handle 5: 3 4
+Round 15
+Player 1 attempts to hold handle 1
+Player 2 attempts to hold handle 2
+Player 3 attempts to hold handle 4
+Player 4 attempts to hold handle 3
+Player 5 attempts to hold handle 5
+Attempting handle 1: 1
+Attempting handle 2: 2
+Attempting handle 3: 4
+Attempting handle 4: 3
+Attempting handle 5: 5
+Every player has a unique handle.
+Scores: 15
